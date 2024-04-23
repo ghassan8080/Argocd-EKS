@@ -1,6 +1,6 @@
 # #/bin/bash
 
-CLUSTER_NAME=cluster-3
+CLUSTER_NAME=cluster-4
 NODES_NUMBER="2"
 NAMESPACE=default
 REGION=us-east-1

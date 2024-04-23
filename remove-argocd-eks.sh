@@ -1,6 +1,6 @@
 # #/bin/bash
 
-CLUSTER_NAME=cluster-3
+CLUSTER_NAME=cluster-4
 REGION=us-east-1
 RELEASE_NAME=my-argo-cd
 
