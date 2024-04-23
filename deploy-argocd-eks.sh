@@ -3,7 +3,7 @@
 CLUSTER_NAME=cluster-3
 NODES_NUMBER="2"
 NAMESPACE=default
-REGION=us-east-2
+REGION=us-east-1
 RELEASE_NAME=my-argo-cd
 
 #Create cluster

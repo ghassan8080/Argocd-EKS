@@ -1,7 +1,7 @@
 # #/bin/bash
 
 CLUSTER_NAME=cluster-3
-REGION=us-east-2
+REGION=us-east-1
 RELEASE_NAME=my-argo-cd
 
 #Delete ArgoCD EKS
