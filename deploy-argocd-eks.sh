@@ -1,10 +1,10 @@
 # #/bin/bash
 
-CLUSTER_NAME=cluster-4
+CLUSTER_NAME=cluster-5
 NODES_NUMBER="2"
 NAMESPACE=default
 REGION=us-east-1
-RELEASE_NAME=my-argo-cd
+RELEASE_NAME=gh-argo-cd
 
 #Create cluster
 echo "--------------------Creating cluster--------------------"

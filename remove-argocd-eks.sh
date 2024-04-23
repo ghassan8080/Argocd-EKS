@@ -1,8 +1,8 @@
 # #/bin/bash
 
-CLUSTER_NAME=cluster-4
+CLUSTER_NAME=cluster-5
 REGION=us-east-1
-RELEASE_NAME=my-argo-cd
+RELEASE_NAME=mgh-argo-cd
 
 #Delete ArgoCD EKS
 echo "--------------------Delete ArgoCD EKS--------------------"
