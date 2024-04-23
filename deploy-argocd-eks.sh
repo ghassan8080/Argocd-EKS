@@ -1,9 +1,9 @@
 # #/bin/bash
 
-CLUSTER_NAME=cluster-1
+CLUSTER_NAME=cluster-3
 NODES_NUMBER="2"
 NAMESPACE=default
-REGION=eu-central-1
+REGION=me-south-1
 RELEASE_NAME=my-argo-cd
 
 #Create cluster
