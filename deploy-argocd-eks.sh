@@ -1,8 +1,8 @@
 # #/bin/bash
 
-CLUSTER_NAME=cluster-5
+CLUSTER_NAME=cluster-6
 NODES_NUMBER="2"
-NAMESPACE=default
+NAMESPACE=ghassan
 REGION=us-east-1
 RELEASE_NAME=gh-argo-cd
 

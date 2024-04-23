@@ -1,6 +1,6 @@
 # #/bin/bash
 
-CLUSTER_NAME=cluster-5
+CLUSTER_NAME=cluster-6
 REGION=us-east-1
 RELEASE_NAME=mgh-argo-cd
 
